@@ -41,7 +41,7 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
-- [ ] Business Analyst has documented key business requirements and processes
-- [ ] UX/UI Designer has created initial design concepts and user flows
-- [ ] DevOps Engineer has reviewed infrastructure and deployment needs
-- [ ] QA Lead has reviewed quality criteria and test strategy
+- [ ] Business Analyst documented key business requirements and processes
+- [ ] UX/UI Designer created initial design concepts and user flows
+- [ ] DevOps Engineer reviewed infrastructure and deployment needs
+- [ ] QA Lead reviewed quality criteria and test strategy
