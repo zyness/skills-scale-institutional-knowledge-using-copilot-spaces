@@ -22,6 +22,10 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - [ ] Deploy to production (automated pipeline preferred)
 - [ ] Run post-deploy verifications
 - [ ] Announce release to stakeholders and support
+- [ ] QA Lead signs off on test results and quality gates
+- [ ] DevOps Engineer confirms deployment pipeline readiness and monitoring
+- [ ] UX/UI Designer validates user-facing changes in staging
+- [ ] Business Analyst confirms business acceptance criteria met
 
 ## Rollback & Incident Playbook
 - If a deployment fails or causes a critical issue:
