@@ -38,3 +38,7 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+- [ ] Business Analyst validates requirements alignment during sprints
+- [ ] UX/UI Designer reviews implemented features for design compliance
+- [ ] DevOps Engineer monitors CI/CD pipeline health and build metrics
+- [ ] QA Lead tracks quality metrics and test coverage
